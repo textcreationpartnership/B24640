@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An instance of Queen Elizabeth's power of dispensing with Acts of Parliament: offer'd to the consideration of the gentlemen of the University of Cambridge. Together with some queries thereupon.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24640</idno><idno type="EEBO-CITATION">99831907</idno>
+  <idno type="VID">206619</idno>
+  <idno type="EEBO-PROQUEST">2240944526</idno>
+  
+            <idno type="STC">Wing I230</idno>
+            <idno type="PROQUEST">99831907</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831907e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1779:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An instance of Queen Elizabeth's power of dispensing with Acts of Parliament: offer'd to the consideration of the gentlemen of the University of Cambridge. Together with some queries thereupon.</title>
+               </titleStmt>
+               <extent>1 sheet, ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Hills, printer to the King's Most Excellent Majesty for His houshold and chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Regarding the Oath of Supremacy and the King's authority in dispensing with ecclesiastical laws.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term type="topical_term">Oaths --  England --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:206619:1"/>
+            <head>An Instance of Queen <hi>Elizabeth's</hi> Power of Dispensing with <hi>Acts of Parliament:</hi> Offer'd to the Consideration of the Gentlemen of the University of <hi>Cambridge.</hi>
+            </head>
+            <head type="sub">Together with some Queries thereupon.</head>
+            <p>QUeen <hi>Elizabeth</hi> by Letters Patents dated 6<seg rend="sup">o</seg>
+               <hi>Aprilis,</hi> 2<seg rend="sup">o</seg> of Her Reign, reciting an Act of Parliament of the First of Her said Reign, and that the Common-Prayer was thereby En<g ref="char:EOLhyphen"/>acted to be used, <hi>Linguâ vulgari, &amp; vernaculâ passìm in Ecclesiâ Anglicanâ, In the Vulgar and Mother-tongue throughout the Church of England,</hi> declares <hi rend="blackletterType">it to be lawful and permitted, by <hi>Her Authority</hi> and <hi>Prero<g ref="char:EOLhyphen"/>gative Royal,</hi> as well to the Dean and Society of <hi>Christ-Church</hi> in Her Vniversity of <hi>Oxford,</hi> as to the Presidents, Wardens, Rectors, Masters, and Societies of All and Every one of the Colleges of <hi>Cambridge, Oxford, Winchester,</hi> and <hi>Eaton,</hi>
+               </hi> [<hi>Licitum esse &amp; permissum, <hi>nostrâ Autoritate &amp; Privilegio Regali,</hi> tàm Decano &amp; Sodali<g ref="char:EOLhyphen"/>tio Ecclesiae Christi in Academiâ nostrâ Oxoniae, quàm Praesidibus, Custodibus, Re<g ref="char:EOLhyphen"/>ctoribus, Magistris, &amp; Sodalitatibus, omnium &amp; singulorum Collegiorum Cantabri<g ref="char:EOLhyphen"/>giae, Oxoniae, Wintoniae, &amp; Etoniae</hi>] <hi rend="blackletterType">to use publickly in their Churches and Chappels that Form of Prayer in Latin, appointed to be printed by Her Printer, and agreeing with the English Book of Common Prayers then used all over the Kingdom, with the Form of Burial of the Dead; the aforesaid Statute concerning the manner of Publick Prayers (whereof She had made mention) published in the First Year of Her Reign, to the contrary notwithstanding.</hi> [<hi>Statuto illo praedicto, de ritu Publicarum Precum (cujus suprà mentionem fecimus) anno primo Regni nostri promulgato, in contrarium non obstante.</hi>]</p>
+            <list>
+               <head>QUERIES.</head>
+               <item>I. WHether the King's Prerogative be not a part (and the most principal one) of the Laws of the Kingdom?</item>
+               <item>II. Whether those who are bound by Oath to observe the Laws of the Kingdom, are not consequently bound by the same Oath (as well as by that of Allegiance) to observe the Royal Prerogative, by obeying whatever is commanded in vertue of it?</item>
+               <item>III. Consequently, Whether a Law dispensed with by the King, can be of any force to oblige the Conscience of one who hath sworn to observe the Laws of the Kingdom, so far as to justifie his Disobedience to any Command of His Majesty, only for its being contrary to that Law which is so dispensed with?</item>
+               <item>IV. Whether if Queen <hi>Elizabeth</hi> had Power to dispense with Acts of Parliament, for the permitting the Colleges to use a Latin Common-Prayer Book, His present Majesty hath not likewise a Power to dispense with Acts requiring such Persons as are made <hi>Masters of Arts</hi> to take the Oaths of Allegiance and Supremacy?</item>
+               <item>V. Whether His Majesty have not reason to take it ill, that the Gentlemen of the University question His Power of Dispensing in so trivial a Matter as the making a Master of Arts, when they neither questioned heretofore, nor do yet question a like Prerogative in Queen <hi>Elizabeth,</hi> and this in favour of so Popish a thing as <hi>Praying in Latin?</hi>
+               </item>
+               <item>VI. Whether the University of <hi>Cambridge</hi> disowning the inalienable Prerogative of Dispensation in the King, and yet <hi>Praying in Latin</hi> by vertue of Queen <hi>Elizabeths</hi> Letters Patents, contrary to an express Act of Parliament, and having, even without any Letters Patents, made several <hi>Masters of Art</hi> without this Ceremony of Swear<g ref="char:EOLhyphen"/>ing, do not challenge to themselves that Prerogative of Dispensation which they will not allow to the King?</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Most Excellent Majesty for His Houshold and Chappel. 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
